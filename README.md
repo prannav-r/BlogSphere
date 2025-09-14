@@ -245,15 +245,3 @@ BlogSphere/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-[@mayankdrvr](https://www.github.com/mayankdrvr)
-
-## 🔗 Live Demo
-
-The application is deployed and available at: [https://mern-blog-3gnt.onrender.com/](https://mern-blog-3gnt.onrender.com/)
-
----
-
-**Note**: Wait a few seconds for the site to load. If features aren't working, try refreshing the page and clearing browser cache.
